@@ -84,6 +84,7 @@ main {
 main > h1 {
     font-family: var(--fonte-android);
     padding: 10px;
+    font-size: 26px;
     color: var(--cor4);
 }
 
